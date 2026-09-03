@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3B82F6&height=220&section=header&text=Hi%20there,%20I'm%20Huy%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20MSc%20CS%20Candidate&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Multi-Agent+Reinforcement+Learning+Researcher;Full-Stack+%26+Blockchain+Engineer;Building+AI+agents+that+actually+ship;Turning+research+into+production+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Multi-Agent+Reinforcement+Learning+Researcher;Full-Stack+%26+Researcher;Building+AI+agents+that+actually+ship;Turning+research+into+production+systems" alt="Typing SVG" />
 
 <br>
 
