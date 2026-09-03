@@ -104,12 +104,12 @@ I'm Huy — a researcher and engineer working at the intersection of **applied A
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HuyLN38&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuyLN38&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=HuyLN38&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HuyLN38&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HuyLN38&theme=tokyonight&hide_border=true" width="97.5%"/>
+<img src="https://streak-stats.demolab.com/?user=HuyLN38&theme=tokyonight&hide_border=true" width="97.5%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=HuyLN38&theme=tokyonight&no-frame=true&row=1&column=7" width="97.5%"/>
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=HuyLN38&theme=tokyonight&no-frame=true&row=1&column=7" width="97.5%"/>
 
 </div>
 
@@ -133,7 +133,9 @@ I'm Huy — a researcher and engineer working at the intersection of **applied A
 
 [![Website](https://img.shields.io/badge/Website-huyln.info-7C3AED?style=for-the-badge&logo=safari&logoColor=white)](https://huyln.info)
 [![GitHub](https://img.shields.io/badge/GitHub-HuyLN38-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HuyLN38)
-<!-- Add LinkedIn / email / X badges here if you'd like them listed -->
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nhuy38/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/huyln._/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lynhathuy38@gmail.com)
 
 </div>
 
