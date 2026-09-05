@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3B82F6&height=220&section=header&text=Hi%20there,%20I'm%20Huy%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Researcher%20%C2%B7%20Full-Stack%20Engineer%20%C2%B7%20MSc%20CS%20Candidate&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3B82F6&height=220&section=header&text=Hi%20there,%20I'm%20Huy%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multi-Agent%20RL%20Researcher%20%C2%B7%20MSc%20CS%20Candidate%20%40%20VinUniversity&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=Multi-Agent+Reinforcement+Learning+Researcher;Full-Stack+%26+Researcher;Building+AI+agents+that+actually+ship;Turning+research+into+production+systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=MSc+Computer+Science+Candidate%2C+VinUniversity;Multi-Agent+RL+for+Intelligent+Transportation;Exploring+LLM+Agents+%26+LLM+Security;Also+shipping+production+software+as+an+engineer" alt="Typing SVG" />
 
 <br>
 
-![Status](https://img.shields.io/badge/Technical%20Lead-BPSS.Cloud-7C3AED?style=flat-square)
+![Research](https://img.shields.io/badge/Research-Multi--Agent%20RL-7C3AED?style=flat-square)
 ![Education](https://img.shields.io/badge/MSc%20CS%20Candidate-VinUniversity-3B82F6?style=flat-square)
-![Location](https://img.shields.io/badge/Based%20in-Hanoi%2C%20Vietnam-0EA5E9?style=flat-square)
+![Status](https://img.shields.io/badge/Technical%20Lead-BPSS.Cloud-0EA5E9?style=flat-square)
+![Location](https://img.shields.io/badge/Based%20in-Hanoi%2C%20Vietnam-64748B?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=HuyLN38&color=7c3aed&style=flat-square&label=Profile+Views)
 
 </div>
@@ -17,13 +18,13 @@
 
 ## 👋 About Me
 
-I'm Huy — a researcher and engineer working at the intersection of **applied AI** and **full-stack software**. My research background is in **Multi-Agent Reinforcement Learning (MARL) for traffic signal control**, and day-to-day I build production systems as a Technical Lead, spanning agentic AI pipelines, web platforms, and blockchain applications.
+I'm Huy, an incoming MSc Computer Science researcher at **VinUniversity** (2026–2027 cohort), working on **Multi-Agent Reinforcement Learning (MARL) for intelligent transportation systems**. Alongside research, I build production software as a full-stack engineer — currently Technical Lead at BPSS.Cloud.
 
-- 🎓 Incoming MSc Computer Science candidate at **VinUniversity** (2026–2027 cohort)
-- 🔬 Research focus: **MARL for intelligent traffic systems**
-- 🧠 Currently building **LLM agent architectures** and exploring **LLM security**
+- 🔬 Research focus: **MARL for traffic signal control**, with growing interest in **LLM agent architectures** and **LLM security**
+- 📝 Co-author, Q2 Springer Nature journal; accepted IEEE KSE 2025 paper
+- 🎓 Incoming MSc CS candidate at **VinUniversity** (2026–2027)
+- 💼 Technical Lead / Full-Stack Engineer, building the systems behind the research
 - 🌏 Fluent in Vietnamese & English
-- ⚡ I like turning research ideas into things people can actually use
 
 <br>
 
@@ -36,27 +37,18 @@ I'm Huy — a researcher and engineer working at the intersection of **applied A
 
 <br>
 
-## 💼 Experience
+## 🔬 Research & Current Focus
 
-| Role | Organization | Duration |
-|---|---|---|
-| Technical Lead / Full-Stack Engineer | **BPSS.Cloud** *(Remote, 🇨🇿 Czechia)* | Mar 2026 – Present |
-| Frontend & Blockchain Developer | **ChainZ** | Nov 2025 – Mar 2026 |
-| Java Backend Intern | **FPT Software** | 2024 |
-| Freelance Software Developer | Self-employed | 2022 – Present |
+**Research interests:** Multi-Agent Reinforcement Learning · Intelligent Transportation Systems · LLM Agent Architectures · LLM Security
 
-<br>
-
-## 🔬 Research & Publications
+**Publications**
 
 📄 **Co-author** — *International Journal of Intelligent Transportation Systems Research* (Springer Nature, Q2)
 &nbsp;&nbsp;&nbsp;&nbsp;Multi-Agent Reinforcement Learning for traffic signal control
 
 📄 **Author** — Accepted paper, **IEEE KSE 2025** *(International Conference on Knowledge and Systems Engineering)*
 
-<br>
-
-## 🔭 Currently Working On
+**Current work**
 
 - 🤖 **AIP-06 — AI Agent Builder** *(university capstone)*
   Designing and building an AI agent platform with `LangGraph` · `FastAPI` · `PostgreSQL` · `Next.js` · `DeepEval` · `Langfuse` · `Docker`
@@ -66,6 +58,19 @@ I'm Huy — a researcher and engineer working at the intersection of **applied A
 
 - 🔐 **LLM Security**
   Exploring prompt-injection attack and defense techniques through red-team CTF challenges (Gandalf/Lakera) and applied cybersecurity labs
+
+<br>
+
+## 💼 Professional Experience
+
+Alongside research, I build production systems as a full-stack and blockchain engineer:
+
+| Role | Organization | Duration |
+|---|---|---|
+| Technical Lead / Full-Stack Engineer | **BPSS.Cloud** *(Remote, 🇨🇿 Czechia)* | Mar 2026 – Present |
+| Frontend & Blockchain Developer | **ChainZ** | Nov 2025 – Mar 2026 |
+| Java Backend Intern | **FPT Software** | 2024 |
+| Freelance Software Developer | Self-employed | 2022 – Present |
 
 <br>
 
