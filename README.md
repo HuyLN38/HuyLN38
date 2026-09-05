@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:3B82F6&height=220&section=header&text=Hi%20there,%20I'm%20Huy%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Multi-Agent%20RL%20Researcher%20%C2%B7%20MSc%20CS%20Candidate%20%40%20VinUniversity&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=560&lines=MSc+Computer+Science+Candidate%2C+VinUniversity;Multi-Agent+RL+for+Intelligent+Transportation;Exploring+LLM+Agents+%26+LLM+Security;Also+shipping+production+software+as+an+engineer" alt="Typing SVG" />
+<img src="assets/banner.svg" width="100%"/>
 
 <br>
 
 ![Research](https://img.shields.io/badge/Research-Multi--Agent%20RL-7C3AED?style=flat-square)
 ![Education](https://img.shields.io/badge/MSc%20CS%20Candidate-VinUniversity-3B82F6?style=flat-square)
-![Status](https://img.shields.io/badge/Technical%20Lead-BPSS.Cloud-0EA5E9?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Incoming%20Graduate%20Researcher-0EA5E9?style=flat-square)
 ![Location](https://img.shields.io/badge/Based%20in-Hanoi%2C%20Vietnam-64748B?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=HuyLN38&color=7c3aed&style=flat-square&label=Profile+Views)
 
@@ -18,12 +16,12 @@
 
 ## 👋 About Me
 
-I'm Huy, an incoming MSc Computer Science researcher at **VinUniversity** (2026–2027 cohort), working on **Multi-Agent Reinforcement Learning (MARL) for intelligent transportation systems**. Alongside research, I build production software as a full-stack engineer — currently Technical Lead at BPSS.Cloud.
+I'm Huy, an incoming MSc Computer Science researcher at **VinUniversity** (2026–2027 cohort), working on **Multi-Agent Reinforcement Learning (MARL) for intelligent transportation systems**. Alongside research, I've built production software as a full-stack engineer across AI, web, and blockchain projects.
 
 - 🔬 Research focus: **MARL for traffic signal control**, with growing interest in **LLM agent architectures** and **LLM security**
 - 📝 Co-author, Q2 Springer Nature journal; accepted IEEE KSE 2025 paper
 - 🎓 Incoming MSc CS candidate at **VinUniversity** (2026–2027)
-- 💼 Technical Lead / Full-Stack Engineer, building the systems behind the research
+- 💼 Most recently Technical Lead / Full-Stack Engineer at BPSS.Cloud
 - 🌏 Fluent in Vietnamese & English
 
 <br>
@@ -63,11 +61,11 @@ I'm Huy, an incoming MSc Computer Science researcher at **VinUniversity** (2026�
 
 ## 💼 Professional Experience
 
-Alongside research, I build production systems as a full-stack and blockchain engineer:
+Alongside research, I've built production systems as a full-stack and blockchain engineer:
 
 | Role | Organization | Duration |
 |---|---|---|
-| Technical Lead / Full-Stack Engineer | **BPSS.Cloud** *(Remote, 🇨🇿 Czechia)* | Mar 2026 – Present |
+| Technical Lead / Full-Stack Engineer | **BPSS.Cloud** *(Remote, 🇨🇿 Czechia)* | Mar 2026 – Jul 2026 |
 | Frontend & Blockchain Developer | **ChainZ** | Nov 2025 – Mar 2026 |
 | Java Backend Intern | **FPT Software** | 2024 |
 | Freelance Software Developer | Self-employed | 2022 – Present |
